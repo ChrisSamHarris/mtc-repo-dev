@@ -1,2 +1,5 @@
-# mtc-repo-dev
-dev | This is a repository for the MTC Terraform code example | Language: Terraform
+# Terraform Developer Repository
+
+### Environment: dev
+
+Created by: ChrisSamHarris
